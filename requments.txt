@@ -1,0 +1,9 @@
+requests
+platform
+wmi
+psutil
+pynvml
+subprocess
+pyecharts
+opencv
+wxpy
